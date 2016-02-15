@@ -1,0 +1,625 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Training Sessions v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-29 13:08:27+0000\n"
+"Last-Translator: Johannes B. Hartmann <johannes.b.hartmann@fau.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: taxonomies/training-category.php:8
+#@ TrainingTD
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr "Kategorien"
+
+#: taxonomies/training-category.php:9
+#@ TrainingTD
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr "Kategorie"
+
+#: taxonomies/training-category.php:10
+#@ TrainingTD
+msgid "Categories"
+msgstr "Kategorien"
+
+#: posttypes/training-session.php:13
+#: taxonomies/training-category.php:11
+#: taxonomies/training-tag.php:11
+#@ TrainingTD
+msgid "All Items"
+msgstr "Alle Fortbildungen"
+
+#: taxonomies/training-category.php:12
+#: taxonomies/training-tag.php:12
+#@ TrainingTD
+msgid "Parent Item"
+msgstr "Eltern Elemtent"
+
+#: posttypes/training-session.php:12
+#: taxonomies/training-category.php:13
+#: taxonomies/training-tag.php:13
+#@ TrainingTD
+msgid "Parent Item:"
+msgstr "Eltern Element"
+
+#: taxonomies/training-category.php:14
+#: taxonomies/training-tag.php:14
+#@ TrainingTD
+msgid "New Item Name"
+msgstr "Neue Fortbildung erstellen"
+
+#: posttypes/training-session.php:14
+#@ TrainingTD
+msgid "Add New Item"
+msgstr "Neue Fortbildung erstellen"
+
+#: posttypes/training-session.php:17
+#: taxonomies/training-category.php:16
+#: taxonomies/training-tag.php:16
+#@ TrainingTD
+msgid "Edit Item"
+msgstr "Fortbildung bearbeiten"
+
+#: posttypes/training-session.php:18
+#: taxonomies/training-category.php:17
+#: taxonomies/training-tag.php:17
+#@ TrainingTD
+msgid "Update Item"
+msgstr "Eintrag aktualisieren"
+
+#: posttypes/training-session.php:19
+#: taxonomies/training-category.php:18
+#: taxonomies/training-tag.php:18
+#@ TrainingTD
+msgid "View Item"
+msgstr "Fortbildung ansehen"
+
+#: taxonomies/training-category.php:19
+#: taxonomies/training-tag.php:19
+#@ TrainingTD
+msgid "Separate items with commas"
+msgstr "Trenne Einträge mit Komata"
+
+#: taxonomies/training-category.php:20
+#: taxonomies/training-tag.php:20
+#@ TrainingTD
+msgid "Add or remove items"
+msgstr "Bearbeite oder lösche Einträge"
+
+#: taxonomies/training-category.php:21
+#: taxonomies/training-tag.php:21
+#@ TrainingTD
+msgid "Choose from the most used"
+msgstr "Wähle von oft verwendeten"
+
+#: taxonomies/training-category.php:22
+#: taxonomies/training-tag.php:22
+#@ TrainingTD
+msgid "Popular Items"
+msgstr "Beliebte Einträge"
+
+#: taxonomies/training-category.php:23
+#: taxonomies/training-tag.php:23
+#@ TrainingTD
+msgid "Search Items"
+msgstr "Suche Einträge"
+
+#: taxonomies/training-category.php:24
+#: taxonomies/training-tag.php:24
+#@ TrainingTD
+msgid "Not Found"
+msgstr "Nichts gefunden"
+
+#: taxonomies/training-category.php:27
+#@ TrainingTD
+msgctxt "Training category URL slug"
+msgid "training-category"
+msgstr "fortbildungen-kategorien"
+
+#: taxonomies/training-tag.php:8
+#@ TrainingTD
+msgctxt "Taxonomy General Name"
+msgid "Tags"
+msgstr "Schlagworte"
+
+#: taxonomies/training-tag.php:9
+#@ TrainingTD
+msgctxt "Taxonomy Singular Name"
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: taxonomies/training-tag.php:10
+#@ TrainingTD
+msgid "Tags"
+msgstr "Schlagworte"
+
+#: taxonomies/training-tag.php:27
+#@ TrainingTD
+msgctxt "Training tag URL slug"
+msgid "training-tag"
+msgstr "fortbildungen-schlagworte"
+
+#: interfaces/training-admin-interface.php:45
+#: interfaces/training-admin-interface.php:289
+#@ TrainingTD
+msgid "Category"
+msgstr "Kategorie"
+
+#: interfaces/training-admin-interface.php:70
+#: interfaces/training-admin-interface.php:291
+#@ TrainingTD
+msgid "Days"
+msgstr "Tage"
+
+#: interfaces/training-admin-interface.php:71
+#@ TrainingTD
+msgid "Please use this date format:"
+msgstr "Bitte verwenden Sie dieses Datumsformat:"
+
+#: interfaces/training-admin-interface.php:71
+#: interfaces/training-admin-interface.php:80
+#: interfaces/training-admin-interface.php:86
+#: interfaces/training-admin-interface.php:92
+#: interfaces/training-admin-interface.php:98
+#: interfaces/training-admin-interface.php:104
+#@ TrainingTD
+msgid "from"
+msgstr "von"
+
+#: interfaces/training-admin-interface.php:71
+#: interfaces/training-admin-interface.php:81
+#: interfaces/training-admin-interface.php:87
+#: interfaces/training-admin-interface.php:93
+#: interfaces/training-admin-interface.php:99
+#: interfaces/training-admin-interface.php:105
+#: interfaces/training-admin-interface.php:135
+#@ TrainingTD
+msgid "till"
+msgstr "bis"
+
+#: interfaces/training-admin-interface.php:71
+#: interfaces/training-admin-interface.php:81
+#: interfaces/training-admin-interface.php:87
+#: interfaces/training-admin-interface.php:93
+#: interfaces/training-admin-interface.php:99
+#: interfaces/training-admin-interface.php:105
+#: interfaces/training-admin-interface.php:135
+#: interfaces/training-admin-interface.php:318
+#: interfaces/training-admin-interface.php:323
+#: interfaces/training-admin-interface.php:328
+#: interfaces/training-admin-interface.php:333
+#: interfaces/training-admin-interface.php:338
+#: interfaces/training-admin-interface.php:397
+#@ TrainingTD
+msgid "o'clock"
+msgstr "Uhr"
+
+#: interfaces/training-admin-interface.php:79
+#: interfaces/training-admin-interface.php:85
+#: interfaces/training-admin-interface.php:91
+#: interfaces/training-admin-interface.php:97
+#: interfaces/training-admin-interface.php:103
+#@ TrainingTD
+msgid "Day"
+msgstr "Tag"
+
+#: interfaces/training-admin-interface.php:79
+#: interfaces/training-admin-interface.php:85
+#: interfaces/training-admin-interface.php:91
+#: interfaces/training-admin-interface.php:97
+#: interfaces/training-admin-interface.php:103
+#: shortcodes/training-shortcode.php:131
+#@ TrainingTD
+msgid "Date"
+msgstr "Datum"
+
+#: interfaces/training-admin-interface.php:80
+#: interfaces/training-admin-interface.php:86
+#: interfaces/training-admin-interface.php:92
+#: interfaces/training-admin-interface.php:98
+#: interfaces/training-admin-interface.php:104
+#@ TrainingTD
+msgid "Beginning"
+msgstr "Anfang"
+
+#: interfaces/training-admin-interface.php:81
+#: interfaces/training-admin-interface.php:87
+#: interfaces/training-admin-interface.php:93
+#: interfaces/training-admin-interface.php:99
+#: interfaces/training-admin-interface.php:105
+#@ TrainingTD
+msgid "Ending"
+msgstr "Ende"
+
+#: interfaces/training-admin-interface.php:109
+#@ TrainingTD
+msgid "Location"
+msgstr "Ort"
+
+#: interfaces/training-admin-interface.php:111
+#: interfaces/training-admin-interface.php:125
+#@ TrainingTD
+msgid "Name"
+msgstr "Name"
+
+#: interfaces/training-admin-interface.php:112
+#@ TrainingTD
+msgid "Street"
+msgstr "Straße"
+
+#: interfaces/training-admin-interface.php:113
+#@ TrainingTD
+msgid "Postalcode"
+msgstr "PLZ"
+
+#: interfaces/training-admin-interface.php:114
+#@ TrainingTD
+msgid "City"
+msgstr "Ort"
+
+#: interfaces/training-admin-interface.php:124
+#: interfaces/training-admin-interface.php:292
+#@ TrainingTD
+msgid "Contact"
+msgstr "Kontakt"
+
+#: interfaces/training-admin-interface.php:126
+#@ TrainingTD
+msgid "Phone"
+msgstr "Telefon"
+
+#: interfaces/training-admin-interface.php:127
+#@ TrainingTD
+msgid "Email"
+msgstr "E-Mail"
+
+#: interfaces/training-admin-interface.php:130
+#@ TrainingTD
+msgid "Further detail"
+msgstr "weitere Details"
+
+#: interfaces/training-admin-interface.php:131
+#: interfaces/training-admin-interface.php:389
+#@ TrainingTD
+msgid "Organiser"
+msgstr "Veranstalter"
+
+#: interfaces/training-admin-interface.php:132
+#@ TrainingTD
+msgid "FIBS ID"
+msgstr "FIBS ID"
+
+#: interfaces/training-admin-interface.php:134
+#@ TrainingTD
+msgid "FIBS Tag"
+msgstr "FIBS Aktenzeichen"
+
+#: interfaces/training-admin-interface.php:135
+#: interfaces/training-admin-interface.php:397
+#@ TrainingTD
+msgid "Deadline"
+msgstr "Anmeldeschluss"
+
+#: interfaces/training-admin-interface.php:135
+#@ TrainingTD
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: interfaces/training-admin-interface.php:135
+#@ TrainingTD
+msgid "Format"
+msgstr "Format"
+
+#: interfaces/training-admin-interface.php:136
+#@ TrainingTD
+msgid "Maximum participants"
+msgstr "Max. Teilnehmende"
+
+#: interfaces/training-admin-interface.php:136
+#: interfaces/training-admin-interface.php:137
+#: interfaces/training-admin-interface.php:401
+#@ TrainingTD
+msgid "Max. participants"
+msgstr "Max. Teilnehmende"
+
+#: interfaces/training-admin-interface.php:137
+#: interfaces/training-admin-interface.php:405
+#@ TrainingTD
+msgid "Fees"
+msgstr "Kosten"
+
+#: interfaces/training-admin-interface.php:139
+#@ TrainingTD
+msgid "Referee label"
+msgstr "Bezeichner Referierende"
+
+#: interfaces/training-admin-interface.php:139
+#@ TrainingTD
+msgid "Please select!"
+msgstr "Bitte wählen Sie"
+
+#: interfaces/training-admin-interface.php:139
+#@ TrainingTD
+msgid "referee (female)"
+msgstr "Referentin"
+
+#: interfaces/training-admin-interface.php:139
+#@ TrainingTD
+msgid "referee (male)"
+msgstr "Referent"
+
+#: interfaces/training-admin-interface.php:139
+#@ TrainingTD
+msgid "referee (many)"
+msgstr "Referierende"
+
+#: helpers/training-helpers.php:90
+#: interfaces/training-admin-interface.php:140
+#@ TrainingTD
+msgid "Referee"
+msgstr "Referent"
+
+#: interfaces/training-admin-interface.php:142
+#@ TrainingTD
+msgid "Type of School"
+msgstr "Schulart"
+
+#: interfaces/training-admin-interface.php:152
+#: interfaces/training-admin-interface.php:379
+#@ TrainingTD
+msgid "Editor"
+msgstr "BearbeiterIn"
+
+#: interfaces/training-admin-interface.php:375
+#: interfaces/training-admin-interface.php:379
+#@ TrainingTD
+msgid "Send email to"
+msgstr "Sende eine E-Mail an"
+
+#: posttypes/training-session.php:8
+#@ TrainingTD
+msgctxt "Post Type General Name"
+msgid "Training sessions"
+msgstr "Fortbildungen"
+
+#: posttypes/training-session.php:9
+#@ TrainingTD
+msgctxt "Post Type Singular Name"
+msgid "Training"
+msgstr "Fortbildung"
+
+#: posttypes/training-session.php:10
+#: posttypes/training-session.php:11
+#@ TrainingTD
+msgid "Training"
+msgstr "Fortbildungen"
+
+#: posttypes/training-session.php:15
+#@ TrainingTD
+msgid "Add New"
+msgstr "Hinzufügen"
+
+#: posttypes/training-session.php:16
+#@ TrainingTD
+msgid "New Item"
+msgstr "Neue Fortbildung erstellen"
+
+#: posttypes/training-session.php:20
+#@ TrainingTD
+msgid "Search Item"
+msgstr "Suche Eintrag"
+
+#: posttypes/training-session.php:21
+#@ TrainingTD
+msgid "Not found"
+msgstr "Nichts gefunden"
+
+#: posttypes/training-session.php:22
+#@ TrainingTD
+msgid "Not found in Trash"
+msgstr "Nicht im Papierkorb gefunden"
+
+#: posttypes/training-session.php:25
+#@ TrainingTD
+msgctxt "Training URL slug"
+msgid "training"
+msgstr "fortbildung"
+
+#: posttypes/training-session.php:31
+#@ TrainingTD
+msgid "training_session"
+msgstr "training_session"
+
+#: posttypes/training-session.php:32
+#@ TrainingTD
+msgid "Further vocational training for teachers"
+msgstr "Fort- und Weiterbildungen für Lehrerinnen und Lehrer"
+
+#: interfaces/training-admin-interface.php:290
+#@ TrainingTD
+msgid "Title"
+msgstr "Titel"
+
+#: interfaces/training-admin-interface.php:293
+#@ TrainingTD
+msgid "Detail"
+msgstr "Details"
+
+#: interfaces/training-admin-interface.php:294
+#@ TrainingTD
+msgid "Input"
+msgstr "Eingang"
+
+#: interfaces/training-admin-interface.php:395
+#@ TrainingTD
+msgid "AKZ and ID missing"
+msgstr "Aktenzeichen und/oder ID fehlen"
+
+#: interfaces/training-admin-interface.php:7
+#@ TrainingTD
+msgid "Training in Detail"
+msgstr "Fortbildung im Detail"
+
+#: interfaces/training-admin-interface.php:135
+#@ TrainingTD
+msgid "In case you only like to use a deadline date set time to 23:59:59!"
+msgstr "Falls Sie nur ein Datum setzen wollen, wählen Sie bitte als Uhrzeit 23:59:59!"
+
+#: interfaces/training-admin-interface.php:405
+#@ TrainingTD
+msgid "EUR"
+msgstr "EUR"
+
+#: helpers/training-helpers.php:92
+#@ TrainingTD
+msgid "Female referee"
+msgstr "Refrentin"
+
+#: helpers/training-helpers.php:95
+#@ TrainingTD
+msgid "Male referee"
+msgstr "Referent"
+
+#: helpers/training-helpers.php:98
+#@ TrainingTD
+msgid "Referees"
+msgstr "Referierende"
+
+#: interfaces/training-admin-interface.php:39
+#@ TrainingTD
+msgid "Settings and Status"
+msgstr "Einstellungen und Status"
+
+#: interfaces/training-admin-interface.php:40
+#@ TrainingTD
+msgid "Training will be printed"
+msgstr "Fortbildung wird gedruckt"
+
+#: interfaces/training-admin-interface.php:41
+#@ TrainingTD
+msgid "First check is done"
+msgstr "1. Prüfung erledigt"
+
+#: interfaces/training-admin-interface.php:344
+#@ TrainingTD
+msgid "will be printed"
+msgstr "wird gedruckt"
+
+#: interfaces/training-admin-interface.php:349
+#: interfaces/training-admin-interface.php:351
+#@ TrainingTD
+msgid "1. check"
+msgstr "1. Prüfung"
+
+#: interfaces/training-admin-interface.php:354
+#: interfaces/training-admin-interface.php:356
+#@ TrainingTD
+msgid "2. check"
+msgstr "2. Prüfung"
+
+#: interfaces/training-admin-interface.php:359
+#@ TrainingTD
+msgid "AKZ set"
+msgstr "AKZ vorhanden"
+
+#: interfaces/training-admin-interface.php:361
+#@ TrainingTD
+msgid "AKZ missing"
+msgstr "AKZ fehlt"
+
+#: interfaces/training-admin-interface.php:42
+#@ TrainingTD
+msgid "Second check is done"
+msgstr "2. Prüfung erledigt"
+
+#: interfaces/training-admin-interface.php:115
+#@ TrainingTD
+msgid "Room"
+msgstr "Raum"
+
+#: shortcodes/training-shortcode.php:131
+#@ TrainingTD
+msgid "Details"
+msgstr "Details"
+
+#: shortcodes/training-shortcode.php:144
+#@ TrainingTD
+msgid "Week"
+msgstr "Woche"
+
+#: interfaces/training-admin-interface.php:120
+#: shortcodes/training-shortcode.php:164
+#@ TrainingTD
+msgid "Show address on OpenStreetMap"
+msgstr "Zeige Adresse auf Karte"
+
+#: taxonomies/training-category.php:15
+#@ TrainingTD
+msgid "Add New Category"
+msgstr "Kategorie hinzufügen"
+
+#: taxonomies/training-tag.php:15
+#@ TrainingTD
+msgid "Add New Tag"
+msgstr "Schlagwort hinzufügen"
+
+#: interfaces/training-admin-interface.php:346
+#@ TrainingTD
+msgid "won't be printed"
+msgstr "wird nicht gedruckt"
+
+#: interfaces/training-admin-interface.php:110
+#@ TrainingTD
+msgid "This training has no location"
+msgstr "Diese Fortbildung hat keinen Veranstaltungsort"
+
+#: interfaces/training-admin-interface.php:35
+#@ TrainingTD
+msgid "Link"
+msgstr "Link"
+
+#: interfaces/training-admin-interface.php:74
+#@ TrainingTD
+msgid "If the Training takes place on many days for the whole day. The date of Day 1 will be the starting point and the date of Day 2 will be the ending point of the Training"
+msgstr "Wenn die Fortbildung an mehreren Tagen für den gesamten Tag stattfindet können Sie das Datum von Tag 1 als Beginn und das Datum von Tag 2 als Ende der Fortbildung gesetzt."
+
+#: interfaces/training-admin-interface.php:76
+#@ TrainingTD
+msgid "Long and whole-time training"
+msgstr "Mehrtägige und ganztägige Fortbildung"
+
+#: interfaces/training-admin-interface.php:117
+#@ TrainingTD
+msgid "Automatically geocoded geographic coordinates for the address above. If they don't fit you may set them manual."
+msgstr "Automatisch ermittelte geographische Koordinaten der oberen Adresse. Falls nötig können Sie diese manuell anpassen."
+
+#: interfaces/training-admin-interface.php:119
+#@ TrainingTD
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: interfaces/training-admin-interface.php:119
+#@ TrainingTD
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: interfaces/training-admin-interface.php:119
+#@ TrainingTD
+msgid "Set GPS position manual."
+msgstr "Koordinaten manuell anpassen"
+
