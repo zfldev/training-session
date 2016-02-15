@@ -1,5 +1,9 @@
 # training-session Plugin for Wordpress
-This Plugin adds a custom Post Type training_session. It may also capture CF7 (Contact Form 7) submits for the Post Type. Therefore add and hidden field name="post_type" and value="training_session", please also add the field name="dateformat" value="d.m.Y" and name="timeformat" value="H:i" to the CF7 Form. Set the value of dateformat and timeformat to the one users will input.
+This Plugin adds a custom Post Type training_session. It may also capture CF7 (Contact Form 7) submits for the Post Type. Therefore add and hidden field name="post_type" and value="training_session", please also add the field name="dateformat" value="d.m.Y" and name="timeformat" value="H:i" to the CF7 Form. Set the value of dateformat and timeformat to the one users will input.  
+## Notes
+- **This plugin is not programmed very well it had to be done very fast!**
+- It may not work with your Wordpress Installation
+- Not all features of this Plugin are documented here
 
 ## Fortbildungen Exportieren und in inDesign setzen
 
